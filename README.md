@@ -4,17 +4,21 @@
 
 //We have to design and code an API over this .
 
-//1. BOOKS
-//We need all the books - DONE
-//To get specific book based on ISBN- DONE
-//To get a list of books based on category - DONE
-//To get a list of books based on languages - DONE
+```
+1. BOOKS
+```
+We need all the books - DONE
+To get specific book based on ISBN- DONE
+To get a list of books based on category - DONE
+To get a list of books based on languages - DONE
 
-//2. AUTHORS
-//We need an API :-
-//To get all authors - DONE
-//To get a specific author - DONE
-//To get a list of authors based on books - DONE
+```
+2. AUTHORS
+```
+We need an API :-
+To get all authors - DONE
+To get a specific author - DONE
+To get a list of authors based on books - DONE
 
 //3. PUBLICATIONS
 //We need all the publications - DONE
